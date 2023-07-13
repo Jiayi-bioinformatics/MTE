@@ -39,3 +39,15 @@ wanna create a text editor that can be embedded in the browser
 - 了解一些特性的基本使用（异常、线程、泛型、IO、lambda表达式等）
 - 阅读Android Developers/Text Styling（Kotlin）参考资料，找到最原理的东西深入学习然后一点点扩展
 
+## 7.13学习内容
+- 获得梯子
+- 虚拟机联网
+- 熟悉了不同版本Android Studio的界面区别与转化
+- host name（clash默认127.0.0.1），端口值（port number，可刷新，自己看面板）
+## 复盘
+- 从技能中做计划，每个小任务有ddl
+- 搜索tips：报错关键词搜索、反向搜索、重新整合搜索中获得的关键词，注意出处，提问的智慧
+### 7.14计划
+- compose
+- text
+
