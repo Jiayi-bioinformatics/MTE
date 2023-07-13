@@ -6,5 +6,5 @@
 
 ![STD PVGFESN0N%I3X UK{(9](https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e1ec5270-4127-47c0-97f0-b05e7fb8940c)
 
-[解决方案原帖]（https://stackoverflow.com/questions/70972106/how-to-configure-proxy-in-emulators-in-new-versions-of-android-studio）
-*特别鸣谢同学相助*
+[解决方案原帖](https://stackoverflow.com/questions/70972106/how-to-configure-proxy-in-emulators-in-new-versions-of-android-studio)
+<br>*特别鸣谢同学相助*
