@@ -50,4 +50,8 @@ wanna create a text editor that can be embedded in the browser
 ### 7.14计划
 - compose
 - text
-
+## 7.14学习内容
+- 了解了什么是Git，Git有什么用，集中式与分布式版本的区别（或许装了Linux系统以后再安装
+- 用设计安卓软件的思维再学习Kotlin基础知识
+- 修改安卓app界面文字、底面、页边距
+- [用安卓开发者手册学习了Jetpack Compose 用法](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=zh-cn#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables)
