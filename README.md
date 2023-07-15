@@ -55,3 +55,7 @@ wanna create a text editor that can be embedded in the browser
 - 用设计安卓软件的思维再学习Kotlin基础知识
 - 修改安卓app界面文字、底面、页边距
 - [用安卓开发者手册学习了Jetpack Compose 用法](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=zh-cn#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables)
+##7.15学习内容
+1.jetpack compose ：Preview UI界面
+2.研究text文本功能
+
