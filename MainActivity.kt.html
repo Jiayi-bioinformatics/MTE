@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>MainActivity.kt</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #0033b3;}
+.s1 { color: #080808;}
+.s2 { color: #8c8c8c; font-style: italic;}
+.s3 { color: #067d17;}
+.s4 { color: #0037a6;}
+.s5 { color: #1750eb;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+MainActivity.kt</font>
+</center></td></tr></table>
+<pre><span class="s0">package </span><span class="s1">com.example.t2</span>
+<span class="s1">import android.os.Bundle</span>
+<span class="s1">import androidx.activity.ComponentActivity</span>
+<span class="s1">import androidx.activity.compose.setContent</span>
+<span class="s1">import androidx.compose.foundation.background</span>
+<span class="s1">import androidx.compose.foundation.layout.Arrangement</span>
+<span class="s1">import androidx.compose.foundation.layout.Column</span>
+<span class="s1">import androidx.compose.foundation.layout.fillMaxSize</span>
+<span class="s1">import androidx.compose.foundation.layout.fillMaxWidth</span>
+<span class="s1">import androidx.compose.foundation.layout.padding</span>
+<span class="s1">import androidx.compose.foundation.text.KeyboardActions</span>
+<span class="s1">import androidx.compose.foundation.text.KeyboardOptions</span>
+<span class="s1">import androidx.compose.material.icons.Icons</span>
+<span class="s1">import androidx.compose.material.icons.filled.AddCircle</span>
+<span class="s1">import androidx.compose.material3.Icon</span>
+
+<span class="s1">import androidx.compose.material3.MaterialTheme</span>
+<span class="s1">import androidx.compose.material3.Surface</span>
+<span class="s1">import androidx.compose.material3.Text</span>
+<span class="s1">import androidx.compose.runtime.Composable</span>
+<span class="s1">import androidx.compose.ui.Alignment</span>
+<span class="s1">import androidx.compose.ui.Modifier</span>
+<span class="s1">import androidx.compose.ui.graphics.Color</span>
+<span class="s1">import androidx.compose.ui.text.input.TextFieldValue</span>
+<span class="s1">import androidx.compose.ui.tooling.preview.Preview</span>
+<span class="s1">import androidx.compose.ui.unit.dp</span>
+<span class="s1">import androidx.compose.ui.unit.sp</span>
+<span class="s1">import com.example.t2.ui.theme.T2Theme</span>
+
+
+<span class="s0">class </span><span class="s1">MainActivity : ComponentActivity() {</span>
+    <span class="s1">override </span><span class="s0">fun </span><span class="s1">onCreate(savedInstanceState: Bundle?) {</span>
+        <span class="s0">super</span><span class="s1">.onCreate(savedInstanceState)</span>
+        <span class="s1">setContent {</span>
+            <span class="s1">T2Theme {</span>
+                <span class="s2">// A surface container using the 'background' color from the theme</span>
+                <span class="s1">Surface(</span>
+                    <span class="s1">modifier = Modifier.fillMaxSize(),</span>
+                    <span class="s1">color = MaterialTheme.colorScheme.background</span>
+                <span class="s1">) {</span>
+                    <span class="s1">Greeting(</span><span class="s3">&quot;Android&quot;</span><span class="s1">)</span>
+
+
+                <span class="s1">}</span>
+            <span class="s1">}</span>
+        <span class="s1">}</span>
+    <span class="s1">}</span>
+<span class="s1">}</span>
+
+
+
+<span class="s1">@Composable</span>
+<span class="s0">fun </span><span class="s1">Greeting(name: String) {</span>
+
+    <span class="s1">Column(horizontalAlignment = Alignment.CenterHorizontally,</span>
+            <span class="s1">verticalArrangement = Arrangement.Center,</span>
+        <span class="s1">modifier = Modifier</span>
+            <span class="s1">.fillMaxWidth()</span>
+
+    <span class="s1">) {</span>
+
+        <span class="s1">Text(</span>
+            <span class="s1">text = </span><span class="s3">&quot;Hello </span><span class="s4">$</span><span class="s1">name</span><span class="s3">!&quot;</span><span class="s1">,</span>
+            <span class="s1">color = Color.Yellow,</span>
+            <span class="s1">fontSize = </span><span class="s5">30</span><span class="s1">.sp,</span>
+
+            <span class="s1">modifier = Modifier</span>
+                <span class="s1">.background(Color.LightGray)</span>
+                <span class="s1">.padding(</span><span class="s5">16</span><span class="s1">.dp)</span>
+                <span class="s1">.background(Color.Magenta)</span>
+
+        <span class="s1">)</span>
+        <span class="s1">Text(text = </span><span class="s3">&quot;Start Your Journey From Here:D&quot;</span><span class="s1">)</span>
+
+    <span class="s1">}</span>
+    <span class="s1">Icon(imageVector = Icons.Default.AddCircle, contentDescription = </span><span class="s0">null</span><span class="s1">)</span>
+
+<span class="s1">}</span>
+
+
+<span class="s1">@Preview(showBackground = </span><span class="s0">true</span><span class="s1">,name=</span><span class="s3">&quot;Preview&quot;</span><span class="s1">)</span>
+<span class="s1">@Composable</span>
+<span class="s0">fun </span><span class="s1">GreetingPreview() {</span>
+    <span class="s1">T2Theme {</span>
+        <span class="s1">Greeting(</span><span class="s3">&quot;Aurora&quot;</span><span class="s1">)</span>
+
+    <span class="s1">}</span>
+<span class="s1">}</span>
+
+<span class="s1">@Composable</span>
+<span class="s0">fun </span><span class="s1">TextField(</span>
+    <span class="s1">value: TextFieldValue,</span>
+    <span class="s1">onValueChange: (TextFieldValue) -&gt; Unit,</span>
+    <span class="s1">modifier: Modifier = Modifier,</span>
+    <span class="s1">enabled: Boolean = </span><span class="s0">true</span><span class="s1">,</span>
+    <span class="s1">readOnly:Boolean = </span><span class="s0">false</span><span class="s1">,</span>
+    <span class="s1">textStyle: androidx.compose.ui.text.TextStyle,</span>
+   <span class="s1">keyboardOptions: KeyboardOptions = KeyboardOptions.Default,</span>
+    <span class="s1">keyboardActions: KeyboardActions = KeyboardActions(),</span>
+    <span class="s1">singleLine: Boolean = </span><span class="s0">false</span>
+
+
+
+<span class="s1">) {</span>
+<span class="s1">}</span></pre>
+</body>
+</html>
