@@ -32,7 +32,7 @@ wanna create a text editor that can be embedded in the browser
 ## 7.12学习内容
 - 学习Markdown用法
 - 学习Lambda编程
-## 复盘
+### 复盘
 -从富文本编辑器需求出发有针对性的学习
 ### 7.13计划
 - 重点关注容器类的使用
@@ -44,7 +44,7 @@ wanna create a text editor that can be embedded in the browser
 - 虚拟机联网
 - 熟悉了不同版本Android Studio的界面区别与转化
 - host name（clash默认127.0.0.1），端口值（port number，可刷新，自己看面板）
-## 复盘
+### 复盘
 - 从技能中做计划，每个小任务有ddl
 - 搜索tips：报错关键词搜索、反向搜索、重新整合搜索中获得的关键词，注意出处，提问的智慧
 ### 7.14计划
@@ -55,7 +55,13 @@ wanna create a text editor that can be embedded in the browser
 - 用设计安卓软件的思维再学习Kotlin基础知识
 - 修改安卓app界面文字、底面、页边距
 - [用安卓开发者手册学习了Jetpack Compose 用法](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=zh-cn#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables)
-##7.15学习内容
+## 7.15学习内容
 1.jetpack compose ：Preview UI界面
 2.研究text文本功能
+## 7.16学习内容
+- [解决报错问题Empty View Activity-五种方法-未解决]（https://www.geeksforgeeks.org/different-ways-to-fix-cannot-resolve-symbol-appcompatactivity-in-android-studio/）
+- 学习 linearlayout/relativelayout
+textview/button/edittext
+### 复盘
+- 边做边学比较快，注意时间和ddl问题
 
