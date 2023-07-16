@@ -59,7 +59,7 @@ wanna create a text editor that can be embedded in the browser
 1.jetpack compose ：Preview UI界面
 2.研究text文本功能
 ## 7.16学习内容
-- [解决报错问题Empty View Activity-五种方法-未解决]（https://www.geeksforgeeks.org/different-ways-to-fix-cannot-resolve-symbol-appcompatactivity-in-android-studio/）
+- [解决报错问题Empty View Activity-五种方法-未解决](https://www.geeksforgeeks.org/different-ways-to-fix-cannot-resolve-symbol-appcompatactivity-in-android-studio/)
 - 学习 linearlayout/relativelayout
 textview/button/edittext
 ### 复盘
