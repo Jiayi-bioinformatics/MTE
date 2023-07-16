@@ -56,12 +56,13 @@ wanna create a text editor that can be embedded in the browser
 - 修改安卓app界面文字、底面、页边距
 - [用安卓开发者手册学习了Jetpack Compose 用法](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=zh-cn#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables)
 ## 7.15学习内容
-1.jetpack compose ：Preview UI界面
-2.研究text文本功能
+- jetpack compose ：Preview UI界面
+- 研究text文本功能
 ## 7.16学习内容
 - [解决报错问题Empty View Activity-五种方法-未解决](https://www.geeksforgeeks.org/different-ways-to-fix-cannot-resolve-symbol-appcompatactivity-in-android-studio/)
 - 学习 linearlayout/relativelayout
 textview/button/edittext
+- 规则代理是根据域名来决定是直连还是代理的
 ### 复盘
 - 边做边学比较快，注意时间和ddl问题
 
