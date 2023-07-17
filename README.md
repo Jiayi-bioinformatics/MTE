@@ -65,4 +65,11 @@ textview/button/edittext
 - 规则代理是根据域名来决定是直连还是代理的
 ### 复盘
 - 边做边学比较快，注意时间和ddl问题
+## 7.17学习内容
+- 利用TextView/Edittext/Button制作app的登陆界面
+ <img width="166" alt="{773C15DB-6AE7-4afa-A2E3-D93C50140F62}" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e1a79b76-eb0c-4c6f-8b70-1ca260d1c306">
+-解决报错的重要问题in Empty View Activity,清缓存/[镜像代理问题](https://www.jianshu.com/p/99bb1406dd48)，这里特别鸣谢裴同学
+
+
+
 
