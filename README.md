@@ -68,8 +68,9 @@ textview/button/edittext
 ## 7.17学习内容
 - 利用TextView/Edittext/Button制作app的登陆界面
  <img width="166" alt="{773C15DB-6AE7-4afa-A2E3-D93C50140F62}" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e1a79b76-eb0c-4c6f-8b70-1ca260d1c306">
-- 解决报错的重要问题in Empty View Activity：清缓存、镜像代理
-- [镜像代理问题解决原帖](https://www.jianshu.com/p/99bb1406dd48)
+
+-  解决报错的重要问题in Empty View Activity：清缓存、镜像代理
+-  [镜像代理问题解决原帖](https://www.jianshu.com/p/99bb1406dd48)
   
 
 
