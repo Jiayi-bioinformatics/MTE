@@ -69,8 +69,8 @@ textview/button/edittext
 - 利用TextView/Edittext/Button制作app的登陆界面
  <img width="166" alt="{773C15DB-6AE7-4afa-A2E3-D93C50140F62}" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e1a79b76-eb0c-4c6f-8b70-1ca260d1c306">
 - 解决报错的重要问题in Empty View Activity：
-   a.清缓存
-  b. [镜像代理问题](https://www.jianshu.com/p/99bb1406dd48)
+   清缓存
+[解决报错问题Empty View Activity-五种方法-未解决](https://www.jianshu.com/p/99bb1406dd48)
   
 
 
