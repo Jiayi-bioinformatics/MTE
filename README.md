@@ -82,10 +82,13 @@ textview/button/edittext
 更正为android:backgroundTint="@android:color/background_light"即可
 
 - Edittext
-  <br>包含内容至少有：
+  <br>1.包含内容至少有：
   <img width="333" alt="b94c71d0ef10bb56a4c34a917e17cdf" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/82cabefb-0a6e-4e44-8971-fb3445b3e03c">
-  <br>报错：Touch target size too small
+  <br>2.报错：Touch target size too small
   <br>解决方案：tools:ignore="TouchTargetSizeCheck"
+  <br>3.No speakable text present.
+  <br>原因：没有初始内容
+  <br>解决：android：hint""
 
 
 ### 待了解
