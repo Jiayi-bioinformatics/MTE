@@ -79,6 +79,10 @@ textview/button/edittext
 <img width="105" alt="26313edd1542fd8ad6a6da70ec6a6e3" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e5a1ceaf-ae8c-43a7-bb57-7894c4c59d62">
 更正为android:backgroundTint="@android:color/background_light"即可
 
+-Edittext包含内容至少有：
+  <img width="333" alt="b94c71d0ef10bb56a4c34a917e17cdf" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/82cabefb-0a6e-4e44-8971-fb3445b3e03c">
+
+
 ### 待了解
 - 匹配对应用户名和密码 /数据库和服务器，实际操作通过插卡实现
   <br>获取edittext里面的用户名和密码、与规定进行匹配、成功则进行跳转
