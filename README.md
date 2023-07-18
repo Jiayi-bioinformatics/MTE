@@ -71,6 +71,9 @@ textview/button/edittext
 
 -  解决报错的重要问题in Empty View Activity：清缓存、镜像代理
 -  [镜像代理问题解决原帖](https://www.jianshu.com/p/99bb1406dd48)
+
+## 7.18学习内容
+- [xml文件格式问题-在同一实体内开始和结束](https://stackoverflow.com/questions/23154504/xml-document-structure-must-start-and-end-within-the-same-entity)
   
 
 
