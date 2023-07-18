@@ -89,12 +89,17 @@ textview/button/edittext
   <br>3.No speakable text present.
   <br>原因：没有初始内容
   <br>解决：android：hint""
+- [实现界面跳转MP4（后续转成GIF）](https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/7f34138d-a512-4279-9799-e2cbd8413953)
 
 
 ### 待了解
 - 匹配对应用户名和密码 /数据库和服务器，实际操作通过插卡实现
   <br>获取edittext里面的用户名和密码、与规定进行匹配、成功则进行跳转
   
+
+
+
+
 
 
 
