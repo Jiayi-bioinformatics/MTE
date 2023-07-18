@@ -84,6 +84,8 @@ textview/button/edittext
 - Edittext
   <br>包含内容至少有：
   <img width="333" alt="b94c71d0ef10bb56a4c34a917e17cdf" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/82cabefb-0a6e-4e44-8971-fb3445b3e03c">
+  <br>报错：Touch target size too small
+  <br>解决方案：tools:ignore="TouchTargetSizeCheck"
 
 
 ### 待了解
