@@ -185,8 +185,10 @@ textview/button/edittext
 
 ### 待了解
 - **编辑器主干部分**
+  ![1044b780b8f05d1cafb413a157b8179](https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/b3100937-01db-47ff-8b99-95d783609807)
+
 - 匹配对应用户名和密码 /数据库和服务器，实际操作通过插卡实现
-  <br>获取edittext里面的用户名和密码、与规定进行匹配、成功则进行跳转（不重要）
+  <br>获取edittext里面的用户名和密码、与规定进行匹配、成功则进行跳转（先别管）
 
 
   
