@@ -180,7 +180,7 @@ textview/button/edittext
   <br>3.No speakable text present.
   <br>原因：没有初始内容
   <br>解决：android：hint""
-- < img align="right" alt="Coding" width="400" src="https://s33.aconvert.com/convert/p3r68-cdx67/ny0w3-sady8.gif">
+- <img align="right" alt="Coding" width="400" src="https://s33.aconvert.com/convert/p3r68-cdx67/ny0w3-sady8.gif">
   <br>[Aconvert在线文档转换器（免费）](https://www.aconvert.com/cn/)
 
 
