@@ -74,7 +74,9 @@ textview/button/edittext
 
 ## 7.18学习内容
 - [xml文件格式问题-在同一实体内开始和结束](https://stackoverflow.com/questions/23154504/xml-document-structure-must-start-and-end-within-the-same-entity)
-  
+- （解决中）
+<img width="283" alt="30968cf617423659bc47bc1215342f7" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/67b7a8cd-53fd-4213-b295-e33e0691f962">
+<img width="105" alt="26313edd1542fd8ad6a6da70ec6a6e3" src="https://github.com/Jiayi-bioinformatics/MTE/assets/139120018/e5a1ceaf-ae8c-43a7-bb57-7894c4c59d62">
 
 
 
