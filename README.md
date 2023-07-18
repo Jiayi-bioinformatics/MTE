@@ -179,11 +179,11 @@ textview/button/edittext
   <br>3.No speakable text present.
   <br>原因：没有初始内容
   <br>解决：android：hint""
-- [实现界面跳转](https://s33.aconvert.com/convert/p3r68-cdx67/ny0w3-sady8.gif)
+- ![界面跳转](ny0w3-sady8.gif)
   <br>[Aconvert在线文档转换器（免费）](https://www.aconvert.com/cn/)
 
-<br>未解决：贴gif到github
-< img align="right" alt="Coding" width="400" src="add your link here">（无效）
+<br>
+
 
 
 ### 待了解
@@ -192,7 +192,7 @@ textview/button/edittext
   
 
 
-)
+
 
 
 
