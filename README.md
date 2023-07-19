@@ -192,7 +192,7 @@ textview/button/edittext
 
 
 ## 7.19 学习内容
-- 安装Git 并学习 git交互式用法
+- 安装Git 初始化 并学习 git交互式用法
 
 
 
