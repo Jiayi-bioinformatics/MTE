@@ -199,7 +199,12 @@ textview/button/edittext
 - Git的基本指令和实操（利用碎片时间闯关中）
 - 昨天在b站看视频，今天看书，再次巩固Java面向对象的抽象类、封装、多态、继承、接口，容器类的使用，一些特性的基本使用，明天可以试着根据任务需求，搓出初始代码，
   后续还要留时间不断测试和修改
-
+## 7.21
+- 昨晚弄明白了xml文件组件和java命令之间的关系，写了代码能通过button控制edit text字体样式（bold italics）的切换
+但是 想在原来的**empty text view**中建一个kotlin语言文件来描述指令，界面突然出现了kotlin configuration，我按照默认选项进行了下去，后来再运行时出现sync failed，
+ Plugin [id: 'org.jetbrains.kotlin.android', version: '1.0.0'] was not found in any of the following sources；clear project,invalidate caches勾选三个选项重启后显示：
+module not specified
+（问题处理中）
 
 
 
