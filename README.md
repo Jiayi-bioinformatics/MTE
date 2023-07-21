@@ -206,6 +206,7 @@ textview/button/edittext
 module not specified
 （问题处理中）
 - [Add Kotlin to an existing app](https://developer.android.com/kotlin/add-kotlin#groovy)
+- 欠缺gradle\maven的知识和迅速摄入Android Studio的英文文档的能力
 
 
 
