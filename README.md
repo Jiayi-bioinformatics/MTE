@@ -205,6 +205,7 @@ textview/button/edittext
  Plugin [id: 'org.jetbrains.kotlin.android', version: '1.0.0'] was not found in any of the following sources；clear project,invalidate caches勾选三个选项重启后显示：
 module not specified
 （问题处理中）
+- [Add Kotlin to an existing app](https://developer.android.com/kotlin/add-kotlin#groovy)
 
 
 
