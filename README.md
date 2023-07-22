@@ -207,6 +207,9 @@ module not specified
 （问题处理中）
 - [Add Kotlin to an existing app](https://developer.android.com/kotlin/add-kotlin#groovy)
 - 欠缺gradle\maven的知识和迅速摄入Android Studio的英文文档的能力
+- 破案：AS端口配置未随clash梯子端口号更改。
+  <br> 解决方案：更正端口号。手动指定外加clash不随机端口。
+  <br> 下次出配置问题的时候，检查网络连接用下载maven的链接准确些，注意端口配置和超时问题。
 
 
 
